@@ -1,0 +1,1 @@
+Let's avoid reinventing the wheel together. If you made a script that performs a common function, share it here. It will be periodically organized by me (Isaac) in a way that hopefully isn't too annoying.
